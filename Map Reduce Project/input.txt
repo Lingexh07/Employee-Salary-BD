@@ -1,0 +1,8 @@
+101,Ravi,HR,25000
+102,Priya,IT,40000
+103,Arun,Finance,35000
+104,Divya,IT,42000
+105,Kumar,HR,28000
+106,Sneha,Finance,38000
+107,Ram,IT,45000
+108,Anu,HR,30000
